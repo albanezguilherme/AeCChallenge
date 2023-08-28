@@ -1,0 +1,12 @@
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\bin\Debug\net7.0\AeCChallenge.Core.deps.json
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\bin\Debug\net7.0\AeCChallenge.Core.dll
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\bin\Debug\net7.0\AeCChallenge.Core.pdb
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\obj\Debug\net7.0\AeCChallenge.Core.csproj.AssemblyReference.cache
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\obj\Debug\net7.0\AeCChallenge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\obj\Debug\net7.0\AeCChallenge.Core.AssemblyInfoInputs.cache
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\obj\Debug\net7.0\AeCChallenge.Core.AssemblyInfo.cs
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\obj\Debug\net7.0\AeCChallenge.Core.csproj.CoreCompileInputs.cache
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\obj\Debug\net7.0\AeCChallenge.Core.dll
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\obj\Debug\net7.0\refint\AeCChallenge.Core.dll
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\obj\Debug\net7.0\AeCChallenge.Core.pdb
+C:\Temp\Desafio\DesafioDotNetSoft\AeCChallenge\AeCChallenge.Core\obj\Debug\net7.0\ref\AeCChallenge.Core.dll
